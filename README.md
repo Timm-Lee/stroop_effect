@@ -4,7 +4,7 @@
 
 ## Background
 
-This is the statistics project of Udacity nano-degree for Machine Learning (Beginners).
+This is the statistically data analysis project of Stroop Effect experiments.
 
 
 
